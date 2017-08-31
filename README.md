@@ -36,7 +36,7 @@ https://tools.ietf.org/html/rfc5514
 **鸟类传输IP数据报标准（A Standard for the Transmission of IP Datagrams on Avian Carriers）[RFC 1149]**
 ----------------------------
 https://tools.ietf.org/html/rfc1149<br>
-https://github.com/AprilCal/web/blob/master/RFC1149鸟类链路上的数据报传输标准.md
+https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC1149.md
 
 **（IP over Avian Carriers with Quality of Service）[RFC2549]**
 ----------------------------
