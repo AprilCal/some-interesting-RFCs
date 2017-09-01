@@ -1,12 +1,17 @@
 本文整理一些有趣的RFC文档，其中大部分为每年4月1日发布的文档，也包含其他时间发布的较为有趣的文档。
 部分文档待翻译。其不按时间索引。
 
-**IETF无聊声明(Internet Engineering Task Force Statements Of Boredom, SOBs)[RFC1438]**
-----------------------------
+
+## (Today's Programming for KRFC AM 1313 Internet Talk Radio)[RFC1313]
+1992 https://tools.ietf.org/html/rfc1313
+
+## IETF无聊声明(Internet Engineering Task Force Statements Of Boredom, SOBs)[RFC1438]
 1993 https://tools.ietf.org/html/rfc1438
 
-**新媒介上的MIME内容类型扩展The(Extension of MIME Content-Types to a New Medium)[RFC1437]**
-----------------------------
+## (An Experimental Encapsulation of IP Datagrams on Top of ATM)[RFC1926]
+https://tools.ietf.org/html/rfc1926
+
+## 新媒介上的MIME内容类型扩展The(Extension of MIME Content-Types to a New Medium)[RFC1437]
 https://tools.ietf.org/html/rfc1437
 
 **无限猴子协议族（The Infinite Monkey Protocol Suite, IMPS）[RFC2795]**
