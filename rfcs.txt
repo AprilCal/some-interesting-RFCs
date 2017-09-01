@@ -1,0 +1,108 @@
+rfc2223.txt:969:.ds RH 1 April 1990
+rfc2223.txt:976:                                                            1 April 1990
+* rfc1313.txt:30:   Here's today's programming for today, Wednesday, 1 April 1992.
+rfc7169.txt:60:RFC 7169              The NSA Certificate Extension         1 April 2014
+rfc7511.txt:396:RFC 7511                     Scenic Routing                 1 April 2015
+rfc6931.txt:1862:                 "Etymology of "Foo"", RFC 3092, 1 April 2001.
+rfc4095.txt:526:              (IMPS)", RFC 2795, 1 April 2000.
+* rfc7168.txt:340:RFC 7168                       HTCPCP-TEA                   1 April 2014
+* rfc1438.txt:60:RFC 1438                       IETF SOBs                    1 April 1993
+rfc2774.txt:721:        (HTCPCP/1.0)", RFC 2324, 1 April 1998.
+rfc8135.txt:844:RFC 8135               Complex Addressing in IPv6           1 April 2017
+rfc6920.txt:1188:              721-735, ISSN 0140-3664, 1 April 2013,
+rfc1607.txt:732:RFC 1607              A View from the 21st Century          1 April 1994
+rfc2196.txt:3899:   Center, Fort George G. Meade, MD, 1 April 1990.
+rfc3652.txt:2821:        Experiment, Note IEN 137, 1 April 1980.
+rfc1924.txt:284:RFC 1924       A Compact Representation of IPv6 Addresses   1 April 1996
+rfc1927.txt:116:RFC 1927           MIME Types: Associating Documents        1 April 1996
+rfc1926.txt:60:RFC 1926                      IP over ATM                   1 April 1996
+rfc2324.txt:396:RFC 2324                       HTCPCP/1.0                   1 April 1998
+rfc2324.txt:424:   Heated Beverage Hardware Devices using SMIv2", RFC 2325, 1 April
+rfc2324.txt:452:RFC 2324                       HTCPCP/1.0                   1 April 1998
+rfc2324.txt:508:RFC 2324                       HTCPCP/1.0                   1 April 1998
+rfc1135.txt:1052:   Computer Communication Review, Vol. 19, No. 2, Pg. 32, 1 April 1989.
+rfc1135.txt:1128:   Computers & Security, Vol. 8, No. 2, Pg. 149, 1 April 1989.
+rfc1135.txt:1301:   8, No. 2, Pg. 101, 1 April 1989.
+rfc1135.txt:1352:   Pg. 39, 1 April 1989.
+rfc1135.txt:1379:   No. 2, Pg. 139, 1 April 1989.
+rfc1135.txt:1469:   Computers & Security, Vol. 8, No. 2, Pg. 115, 1 April 1989.
+rfc1135.txt:1553:   2, Pg. 111, 1 April 1989.
+rfc1135.txt:1600:   Vol. 21, No. 2, Pg. 334, 1 April 1989.
+rfc1135.txt:1780:   Law Review, Pg. 257, 1 April 1989.
+rfc4042.txt:452:RFC 4042                    UTF-9 and UTF-18                1 April 2005
+rfc8140.txt:844:RFC 8140                        ASCII Art                   1 April 2017
+rfc3251.txt:452:RFC 3251                  Electricity over IP               1 April 2002
+rfc2828.txt:11559:            RFC 2323, 1 April 1998. [Intended for humorous entertainment
+rfc5984.txt:452:RFC 5984                  ESP-Based Forwarding              1 April 2011
+rfc759.txt:4307:      USC/Information Sciences Institute, 1 April 1980.
+rfc2100.txt:116:RFC 2100                  The Naming of Hosts               1 April 1997
+rfc1925.txt:116:RFC 1925            Fundamental Truths of Networking        1 April 1996
+rfc5241.txt:508:RFC 5241                     Naming Rights                  1 April 2008
+rfc1505.txt:1938:       to a New Medium", RFC 1437, 1 April 1993.
+rfc1739.txt:1988:   dated 1 April), and general information.  Each RFC is uniquely issued
+rfc1216.txt:11:                                                            1 April 1991
+* rfc3514.txt:284:RFC 3514          The Security Flag in the IPv4 Header      1 April 2003
+rfc1543.txt:801:.ds RH 1 April 1990
+rfc1543.txt:808:                                                            1 April 1990
+rfc3093.txt:60:RFC 3093             Firewall Enhancement Protocol          1 April 2001
+
+rfc1244.txt:5003:           1 April 1990.
+rfc1244.txt:5484:           Center, Fort George G. Meade, MD, 1 April 1990.
+rfc4343.txt:441:                of "Foo"", RFC 3092, 1 April 2001.
+rfc3439.txt:1424:                   1 April 1996.
+rfc739.txt:475:          Communications Agency, 1 April 1976.
+rfc6214.txt:340:RFC 6214                    IPv6 and RFC 1149               1 April 2011
+rfc730.txt:280:        Center Catalog Number 7104, Revised 1 April 1976.
+rfc730.txt:285:        7104, Revised 1 April 1976.
+rfc3675.txt:1112:                  1 April 2003.
+rfc2151.txt:2294:   dated 1 April), and general information. Each RFC is uniquely issued
+rfc1457.txt:660:       Chiefs of Staff.  1 April 1984.
+rfc4949.txt:19891:            RFC 2323, 1 April 1998. (Intended for humorous entertainment
+rfc170.txt:212:            Network Host Questionnaire      1 April 1971     5816    112
+rfc6921.txt:340:RFC 6921       Design Considerations for FTL Communication  1 April 2013
+rfc2323.txt:228:RFC 2323      IETF Identification and Security Guidelines   1 April 1998
+rfc1217.txt:9:                                                            1 April 1991
+rfc2616.txt:9002:        (HTCPCP/1.0)", RFC 2324, 1 April 1998.
+rfc6217.txt:452:RFC 6217                   Regional Broadcast               1 April 2011
+rfc2795.txt:60:RFC 2795       The Infinite Monkey Protocol Suite (IMPS)    1 April 2000
+rfc3751.txt:452:RFC 3751           Omniscience Protocol Requirements        1 April 2004
+rfc2550.txt:732:RFC 2550                    Y10K and Beyond                 1 April 1999
+rfc1012.txt:445:         1 April 1971.
+rfc1012.txt:1847:         (NIC 15716), Harvard, 1 April 1973.
+rfc1012.txt:2742:         (NIC 44125), SU-AI, 1 April 1978.
+rfc2549.txt:172:RFC 2549            IP over Avian Carriers with QoS         1 April 1999
+rfc3252.txt:844:RFC 3252         Binary Lexical Octet Ad-hoc Transport      1 April 2002
+rfc3092.txt:732:RFC 3092                   Etymology of "Foo"               1 April 2001
+rfc1097.txt:9:                                                            1 April 1989
+rfc1097.txt:60:RFC 1097                       SUBLIMINAL                   1 April 1989
+rfc1097.txt:116:RFC 1097                       SUBLIMINAL                   1 April 1989
+rfc3299.txt:775:3252    Kennedy         1 April 2002    Binary Lexical Octet Ad-hoc
+rfc3299.txt:791:3251    Rajagopalan     1 April 2002    Electricity over IP
+rfc1606.txt:172:RFC 1606         Historical Perspective Usage of IP V9      1 April 1994
+rfc7514.txt:228:RFC 7514                          RECN                      1 April 2015
+rfc2322.txt:340:RFC 2322          Management of IP numbers by peg-dhcp      1 April 1998
+rfc4041.txt:396:RFC 4041         Routing Morality Section Requirements      1 April 2005
+rfc200.txt:204:O'Sullivan  User/Server Site Protocol        1 April 1971     5816  112
+rfc4824.txt:10:                                                            1 April 2007
+rfc5514.txt:9:Category: Experimental                                      1 April 2009
+rfc748.txt:9:NIC 44125                                                   1 April 1978
+rfc8136.txt:340:RFC 8136        Additional IPv6 Transition Functionality    1 April 2017
+rfc3091.txt:9:Category: Informational                                     1 April 2001
+rfc3091.txt:284:RFC 3091              Pi Digit Generation Protocol          1 April 2001
+rfc2325.txt:396:RFC 2325                         CP MIB                     1 April 1998
+* rfc6919.txt:284:RFC 6919                  Further RFC Key Words             1 April 2013
+rfc1605.txt:9:Category: Informational                                    1 April 1994
+rfc1605.txt:60:RFC 1605              SONET to Sonnet Translation           1 April 1994
+rfc1605.txt:116:RFC 1605              SONET to Sonnet Translation           1 April 1994
+rfc2321.txt:284:RFC 2321                          RITA                      1 April 1998
+rfc6593.txt:396:RFC 6593                Service Hide-and-Go-Seek            1 April 2012
+rfc6592.txt:9:Category: Informational                                     1 April 2012
+rfc6592.txt:284:RFC 6592                     The Null Packet                1 April 2012
+rfc1437.txt:284:RFC 1437          MIME Content-Types for a New Medium       1 April 1993
+rfc1149.txt:60:RFC 1149             IP Datagrams on Avian Carriers         1 April 1990
+rfc1776.txt:60:RFC 1776               The Address is the Message           1 April 1995
+rfc5513.txt:9:Category: Informational                                     1 April 2009
+rfc5841.txt:10:ISSN: 2070-1721                                             1 April 2010
+
+* rfc5841.txt:60:RFC 5841            TCP Option to Denote Packet Mood        1 April 2010
+rfc5242.txt:11:                                                            1 April 2008
