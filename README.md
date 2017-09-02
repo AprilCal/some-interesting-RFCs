@@ -8,8 +8,9 @@
 ## IETF无聊声明(Internet Engineering Task Force Statements Of Boredom, SOBs)[RFC1438]
 1993 https://tools.ietf.org/html/rfc1438
 
-## (An Experimental Encapsulation of IP Datagrams on Top of ATM)[RFC1926]
-https://tools.ietf.org/html/rfc1926
+## ATM上的实验性IP数据报封装(An Experimental Encapsulation of IP Datagrams on Top of ATM)[RFC1926] 1996/4/1
+https://tools.ietf.org/html/rfc1926<br>
+https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC1926.md
 
 ## 新媒介上的MIME内容类型扩展The(Extension of MIME Content-Types to a New Medium)[RFC1437]
 https://tools.ietf.org/html/rfc1437
@@ -28,7 +29,7 @@ https://tools.ietf.org/html/rfc7168
 
 ## 2001/4/1 pi数字生成协议（Pi Digit Generation Protocol）[RFC 3091]
 ----------------------------
-https://tools.ietf.org/html/rfc3091
+https://tools.ietf.org/html/rfc3091<br>
 https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC3091.md
 
 ## IP供电协议（ Electricity over IP）[RFC 3251]
@@ -52,10 +53,10 @@ https://tools.ietf.org/html/rfc2549
 ----------------------------
 https://tools.ietf.org/html/rfc6214
 
-## 指示数据包心情的TCP选项(TCP Option to Denote Packet Mood)
+## 指示数据包心情的TCP选项(TCP Option to Denote Packet Mood)[RFC5841]
 2010 https://tools.ietf.org/html/rfc5841
 
-## 更多用来指明必要级别的RFC关键字(Further Key Words for Use in RFCs to Indicate Requirement Levels)
+## 更多用来指明必要程度的RFC关键字(Further Key Words for Use in RFCs to Indicate Requirement Levels)
 2014 https://tools.ietf.org/html/rfc6919
 
 ## IPv4报文首部安全标志(The Security Flag in the IPv4 Header)
