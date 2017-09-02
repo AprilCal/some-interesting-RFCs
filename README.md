@@ -28,20 +28,16 @@ https://tools.ietf.org/html/rfc2324
 https://tools.ietf.org/html/rfc7168
 
 ## 2001/4/1 pi数字生成协议（Pi Digit Generation Protocol）[RFC 3091]
-----------------------------
 https://tools.ietf.org/html/rfc3091<br>
 https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC3091.md
 
 ## IP供电协议（ Electricity over IP）[RFC 3251]
-----------------------------
 https://tools.ietf.org/html/rfc3251
 
-**社交网络上的IPv6协议（IPv6 over Social Networks）[RFC 5514]**
-----------------------------
+## 社交网络上的IPv6协议（IPv6 over Social Networks）[RFC 5514]
 https://tools.ietf.org/html/rfc5514
 
-**鸟类传输IP数据报标准（A Standard for the Transmission of IP Datagrams on Avian Carriers）[RFC 1149]**
-----------------------------
+## 鸟类传输IP数据报标准（A Standard for the Transmission of IP Datagrams on Avian Carriers）[RFC 1149]
 https://tools.ietf.org/html/rfc1149<br>
 https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC1149.md
 
