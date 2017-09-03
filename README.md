@@ -5,8 +5,8 @@
 ## (Today's Programming for KRFC AM 1313 Internet Talk Radio)[RFC1313]
 1992 https://tools.ietf.org/html/rfc1313
 
-## IETF无聊声明(Internet Engineering Task Force Statements Of Boredom, SOBs)[RFC1438]
-1993 https://tools.ietf.org/html/rfc1438<br>
+## IETF无聊声明(Internet Engineering Task Force Statements Of Boredom, SOBs)[RFC1438] 1993/4/1
+https://tools.ietf.org/html/rfc1438<br>
 https://github.com/AprilCal/some-interesting-RFCs/blob/master/RFC1438.md
 
 ## ATM上的实验性IP数据报封装(An Experimental Encapsulation of IP Datagrams on Top of ATM)[RFC1926] 1996/4/1
